@@ -1,0 +1,5 @@
+list = [50, 65, 80, 95, 110, 125,]
+for i in list:
+    print(bool([i for i in i.split() if i == '0']))
+    large = (list.index(i))
+    print(large)
