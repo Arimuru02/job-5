@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from random import randint
  
 array = [randint(-10, 30) for i in range(30)]
